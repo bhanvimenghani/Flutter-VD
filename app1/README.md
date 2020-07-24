@@ -1,7 +1,8 @@
 # sec_test
 
 A new Flutter project.
-![alt text](https://drive.google.com/file/d/1UkxjPOT_6bSUkCaOZyBFOCiw8uI-_OXh/view?usp=sharing)
+Link to output image 
+https://drive.google.com/file/d/1UkxjPOT_6bSUkCaOZyBFOCiw8uI-_OXh/view?usp=sharing
 ## Getting Started
 
 This project is a starting point for a Flutter application.
